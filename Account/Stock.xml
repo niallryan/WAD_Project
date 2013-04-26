@@ -1,0 +1,179 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Stock>
+    <StockID>40001</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>10</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20001</SupplierID>
+    <BookName>A Supposedly Fun Thing I'll Never Do Again</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40002</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>10</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20001</SupplierID>
+    <BookName>Consider The Lobster</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40003</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>20</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20002</SupplierID>
+    <BookName>Everything and More: A Brief History of Infinity</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40004</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>14</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20002</SupplierID>
+    <BookName>Infinite Jest</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40005</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>16</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20003</SupplierID>
+    <BookName>The Pale King</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40006</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>10</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20003</SupplierID>
+    <BookName>Girl With The Curious Hair</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40007</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>10</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20004</SupplierID>
+    <BookName>Oblivion and Other Stories</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40008</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>10</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20004</SupplierID>
+    <BookName>The Broom Of The System</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40009</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>10</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20005</SupplierID>
+    <BookName>Brief Interviews With Hideous Men</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40010</StockID>
+    <Author>David Foster Wallace</Author>
+    <Price>16</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20005</SupplierID>
+    <BookName>Both Flesh and Not</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40011</StockID>
+    <Author>Louis MacNeice</Author>
+    <Price>8</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20006</SupplierID>
+    <BookName>Autumn Journal</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40012</StockID>
+    <Author>Louis MacNeice</Author>
+    <Price>28</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20006</SupplierID>
+    <BookName>Collected Poems</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40013</StockID>
+    <Author>David Mitchell</Author>
+    <Price>12</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20007</SupplierID>
+    <BookName>Back Story</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40014</StockID>
+    <Author>David Mitchell</Author>
+    <Price>8</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20007</SupplierID>
+    <BookName>Cloud Atlas</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40015</StockID>
+    <Author>Roberto Bolano</Author>
+    <Price>8</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20008</SupplierID>
+    <BookName>Monsieur Pain</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40016</StockID>
+    <Author>Seamus Heaney</Author>
+    <Price>12</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20008</SupplierID>
+    <BookName>North</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40017</StockID>
+    <Author>Don DeLillo</Author>
+    <Price>14</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20009</SupplierID>
+    <BookName>Underworld</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40018</StockID>
+    <Author>Don DeLillo</Author>
+    <Price>8</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20009</SupplierID>
+    <BookName>The Body Artist</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40019</StockID>
+    <Author>John Barth</Author>
+    <Price>8</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20010</SupplierID>
+    <BookName>Lost In The Funhouse</BookName>
+  </Stock>
+  <Stock>
+    <StockID>40020</StockID>
+    <Author>Harold Bloom</Author>
+    <Price>18</Price>
+    <Stock_level>200</Stock_level>
+    <SupplierID>20012</SupplierID>
+    <BookName>The Anxiety Of Influence</BookName>
+  </Stock>
+  <Stock>
+    <StockID>896875</StockID>
+    <Author>Flann O' Brien</Author>
+    <Price>15</Price>
+    <Stock_level>10</Stock_level>
+    <SupplierID>287987</SupplierID>
+    <BookName>At Swim-Two-Birds</BookName>
+  </Stock>
+  <Stock>
+    <StockID>6786862</StockID>
+    <Author>James Joyce</Author>
+    <Price>20</Price>
+    <Stock_level>100</Stock_level>
+    <SupplierID>789767</SupplierID>
+    <BookName>Ulysses</BookName>
+  </Stock>
+</NewDataSet>
